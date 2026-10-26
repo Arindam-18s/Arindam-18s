@@ -21,5 +21,6 @@
 ---
 ### LeetCode Stats
 
-[https://leetcard.jacoblin.cool/arindamsamadder18?theme=dark&font=Abhaya%20Libre&ext=heatmap]
+[![LeetCode Heatmap](https://vercel.app)](https://leetcard.jacoblin.cool/arindamsamadder18?theme=dark&font=Abhaya%20Libre&ext=heatmap)
+
 
