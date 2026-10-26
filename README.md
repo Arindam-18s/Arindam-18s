@@ -6,17 +6,12 @@
 - Exploring Machine Learning, AI Engineering & Cloud Computing
 - Data Science Intern @ ISI Kolkata
 
-### Tech Stack
-   #### Languages:
-   `Python` `JavaScript` `Java`  `HTML/CSS` `SQL` `C`
-   #### Web & Frameworks:
-    `Node.js` `Express.js` `Streamlit` `MongoDB` `JSP` `Servlets`
-   #### Tools & Platforms:
-   `VS Code` `Eclipse`  `XAMPP` `Git & GitHub` `Postman` `Google Colab`
-   #### Databases & Backend:
-   `MySQL` `PostGreSQL` `Firebase Realtime DB` `MongoDB` `JDBC`
-   #### Concepts:
-   `DSA` `OOPS` `DBMS` `OS` `CN` `SDLC` `Agile` `Low Level Design` `High Level Design`
+### 🛠️ Tech Stack
+* **Languages:** `Python` `JavaScript` `Java` `C` `SQL` `HTML/CSS`
+* **Web & Frameworks:** `Node.js` `Express.js` `Streamlit` `JSP` `Servlets`
+* **Databases:** `MongoDB` `MySQL` `PostgreSQL` `Firebase Realtime DB` `JDBC`
+* **Tools:** `VS Code` `Eclipse` `XAMPP` `Git & GitHub` `Postman` `Google Colab`
+* **Core Concepts:** `DSA` `OOP` `DBMS` `OS` `CN` `SDLC` `Agile` `LLD` `HLD`
 
 ---
 ### LeetCode Stats
