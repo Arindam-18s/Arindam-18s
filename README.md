@@ -20,7 +20,10 @@
 
 ---
 ### LeetCode Stats
+<a href="https://leetcode.com/arindamsamadder18" target="_blank">
+  <img src="https://leetcode-calander-svg.vercel.app/arindamsamadder18/problems" width="380" alt="LeetCode Solved Problems"/>
+</a>
 
-[![LeetCode Heatmap](https://vercel.app)](https://leetcard.jacoblin.cool/arindamsamadder18?theme=dark&font=Abhaya%20Libre&ext=heatmap)
-
-
+<a href="https://leetcode.com/arindamsamadder18" target="_blank">
+  <img src="https://leetcode-calander-svg.vercel.app/arindamsamadder18" width="694" alt="LeetCode Heatmap Grid"/>
+</a>
