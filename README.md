@@ -1,6 +1,4 @@
 # Hi 👋, I'm Arindam Samadder
-- DSA | Python / JavaScript Developer | Data/Business Analytics | AI Explorer | Full-Stack Dev | Final Year MCA Student
----
 ### About Me
 - Masters in Computer Applications(MCA) Student @ Techno India University Kolkata | **CGPA: 8.82**
 - Exploring Machine Learning, AI Engineering & Cloud Computing
@@ -12,7 +10,6 @@
 * **Databases:** `MongoDB` `MySQL` `PostgreSQL` `Firebase Realtime DB` `JDBC`
 * **Tools:** `VS Code` `Eclipse` `XAMPP` `Git & GitHub` `Postman` `Google Colab`
 * **Core Concepts:** `DSA` `OOP` `DBMS` `OS` `CN` `SDLC` `Agile` `LLD` `HLD`
-
 ---
 ### LeetCode Stats
   <a href="https://leetcode.com/arindamsamadder18" target="_blank">
