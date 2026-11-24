@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arindam Samadder
 ### About Me
 - Masters in Computer Applications(MCA) Student @ Techno India University Kolkata | **CGPA: 8.82**
-- Exploring Machine Learning, AI Engineering & Cloud Computing
+- I Have Expertise in  DSA, Machine Learning, Deep Learning, Full Stack Dev. and Business Analytics
 - Data Science Intern @ ISI Kolkata
 
 ### 🛠️ Tech Stack
